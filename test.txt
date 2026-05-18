@@ -1,0 +1,650 @@
+Number of tables = 2
+Size of tables = 10
+TP: 0
+FP: 10000
+TN: 0
+Number of tables = 2
+Size of tables = 20
+TP: 0
+FP: 10000
+TN: 0
+Number of tables = 2
+Size of tables = 40
+TP: 0
+FP: 10000
+TN: 0
+Number of tables = 2
+Size of tables = 80
+TP: 0
+FP: 10000
+TN: 0
+Number of tables = 2
+Size of tables = 160
+TP: 0
+FP: 10000
+TN: 0
+Number of tables = 2
+Size of tables = 320
+TP: 0
+FP: 10000
+TN: 0
+Number of tables = 2
+Size of tables = 640
+TP: 0
+FP: 10000
+TN: 0
+Number of tables = 2
+Size of tables = 1280
+TP: 0
+FP: 3866
+TN: 6134
+Number of tables = 2
+Size of tables = 2560
+TP: 0
+FP: 10000
+TN: 0
+Number of tables = 2
+Size of tables = 5120
+TP: 0
+FP: 144
+TN: 9856
+Number of tables = 4
+Size of tables = 10
+TP: 0
+FP: 10000
+TN: 0
+Number of tables = 4
+Size of tables = 20
+TP: 0
+FP: 10000
+TN: 0
+Number of tables = 4
+Size of tables = 40
+TP: 0
+FP: 10000
+TN: 0
+Number of tables = 4
+Size of tables = 80
+TP: 0
+FP: 10000
+TN: 0
+Number of tables = 4
+Size of tables = 160
+TP: 0
+FP: 10000
+TN: 0
+Number of tables = 4
+Size of tables = 320
+TP: 0
+FP: 10000
+TN: 0
+Number of tables = 4
+Size of tables = 640
+TP: 0
+FP: 9770
+TN: 230
+Number of tables = 4
+Size of tables = 1280
+TP: 0
+FP: 3866
+TN: 6134
+Number of tables = 4
+Size of tables = 2560
+TP: 0
+FP: 144
+TN: 9856
+Number of tables = 4
+Size of tables = 5120
+TP: 0
+FP: 0
+TN: 10000
+Number of tables = 8
+Size of tables = 10
+TP: 0
+FP: 10000
+TN: 0
+Number of tables = 8
+Size of tables = 20
+TP: 0
+FP: 10000
+TN: 0
+Number of tables = 8
+Size of tables = 40
+TP: 0
+FP: 10000
+TN: 0
+Number of tables = 8
+Size of tables = 80
+TP: 0
+FP: 10000
+TN: 0
+Number of tables = 8
+Size of tables = 160
+TP: 0
+FP: 10000
+TN: 0
+Number of tables = 8
+Size of tables = 320
+TP: 0
+FP: 10000
+TN: 0
+Number of tables = 8
+Size of tables = 640
+TP: 0
+FP: 9770
+TN: 230
+Number of tables = 8
+Size of tables = 1280
+TP: 0
+FP: 3866
+TN: 6134
+Number of tables = 8
+Size of tables = 2560
+TP: 0
+FP: 144
+TN: 9856
+Number of tables = 8
+Size of tables = 5120
+TP: 0
+FP: 0
+TN: 10000
+Number of tables = 16
+Size of tables = 10
+TP: 0
+FP: 10000
+TN: 0
+Number of tables = 16
+Size of tables = 20
+TP: 0
+FP: 10000
+TN: 0
+Number of tables = 16
+Size of tables = 40
+TP: 0
+FP: 10000
+TN: 0
+Number of tables = 16
+Size of tables = 80
+TP: 0
+FP: 10000
+TN: 0
+Number of tables = 16
+Size of tables = 160
+TP: 0
+FP: 10000
+TN: 0
+Number of tables = 16
+Size of tables = 320
+TP: 0
+FP: 10000
+TN: 0
+Number of tables = 16
+Size of tables = 640
+TP: 0
+FP: 9770
+TN: 230
+Number of tables = 16
+Size of tables = 1280
+TP: 0
+FP: 3866
+TN: 6134
+Number of tables = 16
+Size of tables = 2560
+TP: 0
+FP: 144
+TN: 9856
+Number of tables = 16
+Size of tables = 5120
+TP: 0
+FP: 0
+TN: 10000
+Number of tables = 32
+Size of tables = 10
+TP: 0
+FP: 10000
+TN: 0
+Number of tables = 32
+Size of tables = 20
+TP: 0
+FP: 10000
+TN: 0
+Number of tables = 32
+Size of tables = 40
+TP: 0
+FP: 10000
+TN: 0
+Number of tables = 32
+Size of tables = 80
+TP: 0
+FP: 10000
+TN: 0
+Number of tables = 32
+Size of tables = 160
+TP: 0
+FP: 10000
+TN: 0
+Number of tables = 32
+Size of tables = 320
+TP: 0
+FP: 10000
+TN: 0
+Number of tables = 32
+Size of tables = 640
+TP: 0
+FP: 9770
+TN: 230
+Number of tables = 32
+Size of tables = 1280
+TP: 0
+FP: 3866
+TN: 6134
+Number of tables = 32
+Size of tables = 2560
+TP: 0
+FP: 144
+TN: 9856
+Number of tables = 32
+Size of tables = 5120
+TP: 0
+FP: 0
+TN: 10000
+Number of tables = 64
+Size of tables = 10
+TP: 0
+FP: 10000
+TN: 0
+Number of tables = 64
+Size of tables = 20
+TP: 0
+FP: 10000
+TN: 0
+Number of tables = 64
+Size of tables = 40
+TP: 0
+FP: 10000
+TN: 0
+Number of tables = 64
+Size of tables = 80
+TP: 0
+FP: 10000
+TN: 0
+Number of tables = 64
+Size of tables = 160
+TP: 0
+FP: 10000
+TN: 0
+Number of tables = 64
+Size of tables = 320
+TP: 0
+FP: 10000
+TN: 0
+Number of tables = 64
+Size of tables = 640
+TP: 0
+FP: 9770
+TN: 230
+Number of tables = 64
+Size of tables = 1280
+TP: 0
+FP: 3866
+TN: 6134
+Number of tables = 64
+Size of tables = 2560
+TP: 0
+FP: 144
+TN: 9856
+Number of tables = 64
+Size of tables = 5120
+TP: 0
+FP: 0
+TN: 10000
+Number of tables = 128
+Size of tables = 10
+TP: 0
+FP: 10000
+TN: 0
+Number of tables = 128
+Size of tables = 20
+TP: 0
+FP: 10000
+TN: 0
+Number of tables = 128
+Size of tables = 40
+TP: 0
+FP: 10000
+TN: 0
+Number of tables = 128
+Size of tables = 80
+TP: 0
+FP: 10000
+TN: 0
+Number of tables = 128
+Size of tables = 160
+TP: 0
+FP: 10000
+TN: 0
+Number of tables = 128
+Size of tables = 320
+TP: 0
+FP: 10000
+TN: 0
+Number of tables = 128
+Size of tables = 640
+TP: 0
+FP: 9770
+TN: 230
+Number of tables = 128
+Size of tables = 1280
+TP: 0
+FP: 3866
+TN: 6134
+Number of tables = 128
+Size of tables = 2560
+TP: 0
+FP: 144
+TN: 9856
+Number of tables = 128
+Size of tables = 5120
+TP: 0
+FP: 0
+TN: 10000
+Number of tables = 256
+Size of tables = 10
+TP: 0
+FP: 10000
+TN: 0
+Number of tables = 256
+Size of tables = 20
+TP: 0
+FP: 10000
+TN: 0
+Number of tables = 256
+Size of tables = 40
+TP: 0
+FP: 10000
+TN: 0
+Number of tables = 256
+Size of tables = 80
+TP: 0
+FP: 10000
+TN: 0
+Number of tables = 256
+Size of tables = 160
+TP: 0
+FP: 10000
+TN: 0
+Number of tables = 256
+Size of tables = 320
+TP: 0
+FP: 10000
+TN: 0
+Number of tables = 256
+Size of tables = 640
+TP: 0
+FP: 9770
+TN: 230
+Number of tables = 256
+Size of tables = 1280
+TP: 0
+FP: 3866
+TN: 6134
+Number of tables = 256
+Size of tables = 2560
+TP: 0
+FP: 144
+TN: 9856
+Number of tables = 256
+Size of tables = 5120
+TP: 0
+FP: 0
+TN: 10000
+Number of tables = 512
+Size of tables = 10
+TP: 0
+FP: 10000
+TN: 0
+Number of tables = 512
+Size of tables = 20
+TP: 0
+FP: 10000
+TN: 0
+Number of tables = 512
+Size of tables = 40
+TP: 0
+FP: 10000
+TN: 0
+Number of tables = 512
+Size of tables = 80
+TP: 0
+FP: 10000
+TN: 0
+Number of tables = 512
+Size of tables = 160
+TP: 0
+FP: 10000
+TN: 0
+Number of tables = 512
+Size of tables = 320
+TP: 0
+FP: 10000
+TN: 0
+Number of tables = 512
+Size of tables = 640
+TP: 0
+FP: 9770
+TN: 230
+Number of tables = 512
+Size of tables = 1280
+TP: 0
+FP: 3866
+TN: 6134
+Number of tables = 512
+Size of tables = 2560
+TP: 0
+FP: 144
+TN: 9856
+Number of tables = 512
+Size of tables = 5120
+TP: 0
+FP: 0
+TN: 10000
+Number of tables = 1024
+Size of tables = 10
+TP: 0
+FP: 10000
+TN: 0
+Number of tables = 1024
+Size of tables = 20
+TP: 0
+FP: 10000
+TN: 0
+Number of tables = 1024
+Size of tables = 40
+TP: 0
+FP: 10000
+TN: 0
+Number of tables = 1024
+Size of tables = 80
+TP: 0
+FP: 10000
+TN: 0
+Number of tables = 1024
+Size of tables = 160
+TP: 0
+FP: 10000
+TN: 0
+Number of tables = 1024
+Size of tables = 320
+TP: 0
+FP: 10000
+TN: 0
+Number of tables = 1024
+Size of tables = 640
+TP: 0
+FP: 9770
+TN: 230
+Number of tables = 1024
+Size of tables = 1280
+TP: 0
+FP: 3866
+TN: 6134
+Number of tables = 1024
+Size of tables = 2560
+TP: 0
+FP: 144
+TN: 9856
+Number of tables = 1024
+Size of tables = 5120
+TP: 0
+FP: 0
+TN: 10000
+Number of tables = 2048
+Size of tables = 10
+TP: 0
+FP: 10000
+TN: 0
+Number of tables = 2048
+Size of tables = 20
+TP: 0
+FP: 10000
+TN: 0
+Number of tables = 2048
+Size of tables = 40
+TP: 0
+FP: 10000
+TN: 0
+Number of tables = 2048
+Size of tables = 80
+TP: 0
+FP: 10000
+TN: 0
+Number of tables = 2048
+Size of tables = 160
+TP: 0
+FP: 10000
+TN: 0
+Number of tables = 2048
+Size of tables = 320
+TP: 0
+FP: 10000
+TN: 0
+Number of tables = 2048
+Size of tables = 640
+TP: 0
+FP: 9770
+TN: 230
+Number of tables = 2048
+Size of tables = 1280
+TP: 0
+FP: 3866
+TN: 6134
+Number of tables = 2048
+Size of tables = 2560
+TP: 0
+FP: 144
+TN: 9856
+Number of tables = 2048
+Size of tables = 5120
+TP: 0
+FP: 0
+TN: 10000
+Number of tables = 4096
+Size of tables = 10
+TP: 0
+FP: 10000
+TN: 0
+Number of tables = 4096
+Size of tables = 20
+TP: 0
+FP: 10000
+TN: 0
+Number of tables = 4096
+Size of tables = 40
+TP: 0
+FP: 10000
+TN: 0
+Number of tables = 4096
+Size of tables = 80
+TP: 0
+FP: 10000
+TN: 0
+Number of tables = 4096
+Size of tables = 160
+TP: 0
+FP: 10000
+TN: 0
+Number of tables = 4096
+Size of tables = 320
+TP: 0
+FP: 10000
+TN: 0
+Number of tables = 4096
+Size of tables = 640
+TP: 0
+FP: 9770
+TN: 230
+Number of tables = 4096
+Size of tables = 1280
+TP: 0
+FP: 3866
+TN: 6134
+Number of tables = 4096
+Size of tables = 2560
+TP: 0
+FP: 144
+TN: 9856
+Number of tables = 4096
+Size of tables = 5120
+TP: 0
+FP: 0
+TN: 10000
+Number of tables = 8192
+Size of tables = 10
+TP: 0
+FP: 10000
+TN: 0
+Number of tables = 8192
+Size of tables = 20
+TP: 0
+FP: 10000
+TN: 0
+Number of tables = 8192
+Size of tables = 40
+TP: 0
+FP: 10000
+TN: 0
+Number of tables = 8192
+Size of tables = 80
+TP: 0
+FP: 10000
+TN: 0
+Number of tables = 8192
+Size of tables = 160
+TP: 0
+FP: 10000
+TN: 0
+Number of tables = 8192
+Size of tables = 320
+TP: 0
+FP: 10000
+TN: 0
+Number of tables = 8192
+Size of tables = 640
+TP: 0
+FP: 9770
+TN: 230
+Number of tables = 8192
+Size of tables = 1280
+TP: 0
+FP: 3866
+TN: 6134
+Number of tables = 8192
+Size of tables = 2560
+TP: 0
+FP: 144
+TN: 9856
+Number of tables = 8192
+Size of tables = 5120
+TP: 0
+FP: 0
+TN: 10000
