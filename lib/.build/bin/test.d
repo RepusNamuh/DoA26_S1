@@ -1,3 +1,3 @@
-.build/bin/test.o: test.c tree.h AVL.h
+.build/bin/test.o: test.c tree.h Btree.h
 tree.h:
-AVL.h:
+Btree.h:

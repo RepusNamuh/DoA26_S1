@@ -12,6 +12,7 @@ struct node {
 	node_t *left;
 	node_t *right;
 	node_t *middle;
+	node_t *parent;
 	int height;
 	int count;
 };

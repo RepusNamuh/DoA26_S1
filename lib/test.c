@@ -2,7 +2,8 @@
 #include <stdlib.h>
 
 #include "tree.h"
-#include "AVL.h"
+//#include "AVL.h"
+#include "Btree.h"
 //#include "BST.h"
 
 
@@ -10,10 +11,12 @@ int compare(void *a, void *b);
 void print_tree(node_t *node);
 void test_bst();
 void test_avl();
+void test_23();
 
 int main() {
 	//test_bst();
-	test_avl();
+	//test_avl();
+	test_23();
 	return 0;
 }
 
@@ -70,8 +73,57 @@ void print_sideway(node_t *node, int level) {
 // 	}
 // }
 
-void test_avl() {
-	tree_t *tree = create_tree(compare, sizeof(int));
+// void test_avl() {
+// 	tree_t *tree = create_tree(compare, sizeof(int));
+// 	int a = 5;
+// 	int b = 3;
+// 	int c = 7;
+// 	int d = 2;
+// 	int e = 1;
+// 	int f = 6;
+// 	int g = 8;
+// 	int h = 9;
+// 	int i = 10;
+// 	int j = 4;
+// 	insertOnAVL(tree, &a);
+// 	insertOnAVL(tree, &b);
+// 	insertOnAVL(tree, &c);
+// 	insertOnAVL(tree, &d);
+// 	insertOnAVL(tree, &e);
+// 	insertOnAVL(tree, &f);
+// 	insertOnAVL(tree, &g);
+// 	insertOnAVL(tree, &h);
+// 	insertOnAVL(tree, &i);
+// 	insertOnAVL(tree, &j);
+// 	print_sideway(tree->root, 0);
+
+// 	node_t *result = searchOnAVL(tree, &b);
+// 	if (result != NULL) {
+// 		printf("Found: %d\n", *(int*)result->v1);
+// 	} else {
+// 		printf("Not found\n");
+// 	}
+
+// 	deleteOnAVL(tree, &b);
+// 	print_sideway(tree->root, 0);
+// 	result = searchOnAVL(tree, &b);
+// 	if (result != NULL) {
+// 		printf("Found: %d\n", *(int*)result->v1);
+// 	} else {
+// 		printf("Not found\n");
+// 	}
+
+// 	deleteOnAVL(tree, &j);
+// 	insertOnAVL(tree, &(int){11});
+// 	print_sideway(tree->root, 0);
+// 	printf("\n");
+// 	deleteOnAVL(tree, &(int){1});
+// 	print_sideway(tree->root, 0);
+// 	printf("\n");
+// }
+
+void test_23() {
+	tree_23_t *tree = create_23_tree(compare, sizeof(int));
 	int a = 5;
 	int b = 3;
 	int c = 7;
@@ -82,39 +134,51 @@ void test_avl() {
 	int h = 9;
 	int i = 10;
 	int j = 4;
-	insertOnAVL(tree, &a);
-	insertOnAVL(tree, &b);
-	insertOnAVL(tree, &c);
-	insertOnAVL(tree, &d);
-	insertOnAVL(tree, &e);
-	insertOnAVL(tree, &f);
-	insertOnAVL(tree, &g);
-	insertOnAVL(tree, &h);
-	insertOnAVL(tree, &i);
-	insertOnAVL(tree, &j);
-	print_sideway(tree->root, 0);
+	insertOn23(tree, &a, NULL);
+	print_23_tree(tree->root, 0);
+	printf("\n");
 
-	node_t *result = searchOnAVL(tree, &b);
+	insertOn23(tree, &b, NULL);
+	print_23_tree(tree->root, 0);
+	printf("\n");
+
+	insertOn23(tree, &c, NULL);
+	print_23_tree(tree->root, 0);
+	printf("\n");	
+
+	insertOn23(tree, &d, NULL);
+	print_23_tree(tree->root, 0);
+	printf("\n");
+
+	insertOn23(tree, &e, NULL);
+	print_23_tree(tree->root, 0);
+	printf("\n");
+
+	insertOn23(tree, &f, NULL);
+	print_23_tree(tree->root, 0);
+	printf("\n");
+
+	insertOn23(tree, &g, NULL);
+	print_23_tree(tree->root, 0);
+	printf("\n");
+
+	insertOn23(tree, &h, NULL);
+	print_23_tree(tree->root, 0);
+	printf("\n");
+
+	insertOn23(tree, &i, NULL);
+	print_23_tree(tree->root, 0);
+	printf("\n");
+	
+	insertOn23(tree, &j, NULL);
+	print_23_tree(tree->root, 0);
+	printf("\n");
+
+	node_23_t *result = searchOn23(tree, &b);
 	if (result != NULL) {
 		printf("Found: %d\n", *(int*)result->v1);
 	} else {
 		printf("Not found\n");
 	}
-
-	deleteOnAVL(tree, &b);
-	print_sideway(tree->root, 0);
-	result = searchOnAVL(tree, &b);
-	if (result != NULL) {
-		printf("Found: %d\n", *(int*)result->v1);
-	} else {
-		printf("Not found\n");
-	}
-
-	deleteOnAVL(tree, &j);
-	insertOnAVL(tree, &(int){11});
-	print_sideway(tree->root, 0);
-	printf("\n");
-	deleteOnAVL(tree, &(int){1});
-	print_sideway(tree->root, 0);
-	printf("\n");
+	print_23_tree(tree->root, 0);
 }

@@ -19,6 +19,11 @@ node_t *create_node(void *v1, void *v2) {
 	temp->left = NULL;
 	temp->right = NULL;
 	temp->middle = NULL;
+	temp->parent = NULL;
+	
+	temp->count = 0;
+	temp->count += v1 != NULL ? 1 : 0;
+	temp->count += v2 != NULL ? 1 : 0;
 	temp->height = 1;
 	return temp;
 }
